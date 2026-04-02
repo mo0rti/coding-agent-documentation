@@ -1,5 +1,7 @@
 # AI Agent Engineering Findings
 
+Read the article on Medium: [Inside Claude Code: What the Source Really Tells Us About Building Production AI Agents](https://medium.com/@mortitech/inside-claude-code-what-the-source-really-tells-us-about-building-production-ai-agents-cd9c3eb7c91b)
+
 ## What This Repository Is For
 
 This repository contains engineering-oriented documentation about production-grade AI coding agent architecture.
